@@ -1,0 +1,35 @@
+.myrow {
+  /* width: 25%; */
+  display: inline-block;
+  min-width: 100%;
+  text-align: left;
+}
+
+.img {
+  width: auto;
+  height: 100%;
+  background-color: rgba(224, 224, 224);
+}
+.description {
+  margin-bottom: 1.5rem;
+}
+
+@media screen and (min-width: 700px) {
+  .myrow {
+    min-width: 50%;
+  }
+}
+
+@media screen and (min-width: 1440) {
+  .myrow {
+    min-width: 25%;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .myrow {
+    min-width: 25%;
+  }
+  body {
+    background-color: rgba(224, 224, 224);
+  }
+}
