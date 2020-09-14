@@ -1,3 +1,12 @@
+For CSS I have used media query with mobile first approach to render landing page. I used axios to sent http request and react-router-dom for routing. Within given time constraint I could not complete every requirement but if you allow more time I will complete that also . only some css related tasks and unit test case are left.
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
